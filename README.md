@@ -46,3 +46,16 @@ This project is ideal for beginners and freshers to understand real-world applic
 - **OOP Principles**
 - **Scanner Class for User Input**
 
+- 📂 Project Structure
+com.BankApp
+│── BankApplication.java
+│── CustomerDetails.java
+│── SavingsAccount.java
+│── CurrentAccount.java
+│── FixedDepositAccount.java
+
+👨‍💻 Author
+
+Durgesh Tiwari
+Java Full Stack Trainee | Core Java | OOP Concepts
+
