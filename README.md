@@ -50,17 +50,17 @@ This project is ideal for beginners and freshers to understand real-world applic
 
 ## 📂 Project Structure
 com.BankApp
-│── BankApplication.java
-│── CustomerDetails.java
-│── SavingsAccount.java
-│── CurrentAccount.java
-│── FixedDepositAccount.java
+- │── BankApplication.java
+- │── CustomerDetails.java
+- │── SavingsAccount.java
+- │── CurrentAccount.java
+- │── FixedDepositAccount.java
 
 ---
 
 
 ## 👨‍💻 Author
 
-Durgesh Tiwari
-Java Full Stack Trainee | Core Java | OOP Concepts
+- Durgesh Tiwari
+- Java Full Stack Trainee| Core Java | OOP Concepts
 
